@@ -1,6 +1,6 @@
 ---
 layout: post
-category: jekyll
+category: daily
 title: 为Jekyll增加不完美的分页和文章摘要
 tagline: by Kingauthur
 tags: [jekyll]
