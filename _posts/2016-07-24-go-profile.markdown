@@ -21,13 +21,10 @@ func main(){
 再执行
 
 1. CPU的profile信息
-
 ```
 go tool pprof http://localhost:6060/debug/pprof/profile
 ```
-
 2. MEM的profile信息
-
 ```
 go tool pprof --alloc_space http://localhost:6060/debug/pprof/heap
 ```
